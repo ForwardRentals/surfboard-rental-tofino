@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://surfboardrentaltofino.com/sitemap.xml
